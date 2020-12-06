@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinHomeWork</string>
+    <string name="hello">Hello</string>
+    <string name="name_your_self">Name your self</string>
+    <string name="anon">Anon</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="my_name">That\'s my name!</string>
+</resources>
